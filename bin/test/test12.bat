@@ -1,0 +1,1 @@
+-c -w -l -s *.c -o "outfile.txt"

@@ -1,0 +1,1 @@
+wc.exe -a .\test\test2.c

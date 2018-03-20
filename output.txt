@@ -1,4 +1,0 @@
-output.txt,行数:8
-output.txt,单词数:11
-output.txt,字符数:77
-output.txt，代码行/空行/注释行：3/0/1

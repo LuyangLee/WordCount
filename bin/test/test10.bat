@@ -1,0 +1,1 @@
+wc.exe -c -w -l  .\test\test1.c -o outfile.txt

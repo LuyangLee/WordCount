@@ -1,0 +1,1 @@
+wc.exe -c - w -l -e .\test\stopList.txt -o "outfile.txt"
